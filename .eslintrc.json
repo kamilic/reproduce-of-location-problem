@@ -1,0 +1,19 @@
+{
+    "plugins": ["vue"],
+    "parser": "vue-eslint-parser",
+    "parserOptions": {
+        "parser": "babel-eslint",
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    },
+    "rules": {
+        "vue/script-indent": [
+            "error",
+            4,
+            {
+                "switchCase": 1
+            }
+        ],
+        "vue/space-infix-ops": [2]
+    }
+}

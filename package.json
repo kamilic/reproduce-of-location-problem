@@ -1,0 +1,17 @@
+{
+  "name": "reproduce-of-location-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint test.vue"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.6.0",
+    "eslint-plugin-vue": "^5.2.3",
+    "vue-eslint-parser": "^6.0.4"
+  }
+}
